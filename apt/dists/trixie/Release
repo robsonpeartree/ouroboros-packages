@@ -1,19 +1,19 @@
 Architectures: amd64
 Codename: trixie
 Components: main
-Date: Sat, 01 Aug 2026 02:01:25 +0000
+Date: Sat, 01 Aug 2026 02:23:15 +0000
 Label: Ouroboros Linux
 Origin: Ouroboros Linux
 Suite: trixie
 MD5Sum:
- 941634da68c745467fe5395636750619             5928 main/binary-amd64/Packages
- 74bf858a5bedaba10b11b85e1bed0cfe             2706 main/binary-amd64/Packages.gz
+ 2b649f3b444e7da97c73b83bbc95652e             5928 main/binary-amd64/Packages
+ 44d0937ea106b056f6360c692f7a0de3             2696 main/binary-amd64/Packages.gz
 SHA1:
- cba8ca396234b7d1546a31e4734b84ac7471f092             5928 main/binary-amd64/Packages
- c2221d1547c3415b866015b534d3b2efcd769653             2706 main/binary-amd64/Packages.gz
+ 6217faa7d546221325055090e99cd26e61b895e9             5928 main/binary-amd64/Packages
+ 460a70536421fa26a628bb86f36184e29eaa05ae             2696 main/binary-amd64/Packages.gz
 SHA256:
- 0b4053f966bedf4a9d7cff9550d65e6e9c4e109995a703ad12555ce87bb24515             5928 main/binary-amd64/Packages
- eb9a1126f2225233384f52c48722da4b200d97cddf4ff987b432bbe1468b68ad             2706 main/binary-amd64/Packages.gz
+ 19506c6dd00a29f106467b30b1c096e15cbcb0571506efdb592e915626a43afa             5928 main/binary-amd64/Packages
+ 506473a55f2c05868de2867426c0f1d7c2a10af3740cf324d37e3d1996fb3b85             2696 main/binary-amd64/Packages.gz
 SHA512:
- 00b578b1a99dd3d405916969e95ab7dca9b58d6c353be4faa88ff097a46c78f8996668d58ac4ae6dde84e546cf4a09c95fba7b6eb2feeab18adc7ca27552e94b             5928 main/binary-amd64/Packages
- b3eca61d40411c7875eb7b85caa3fbd927ffe22296bb78fc5df51b0113d3a98b48e0963656c08f6e15937e22c12300f1be8471559da558d07e8c527b2c9cf990             2706 main/binary-amd64/Packages.gz
+ 5c4be8ac8f5a696dc1bf062fe439875176e0fa748bdcb4f783a5d8741b963f5b37d57a39314aa8a9765622b310253ba4e83e9b11567df3219cb1c50083022bf9             5928 main/binary-amd64/Packages
+ 94ea46286760cc3da4200d7d6ab6dc233fc66b39d5be420115d5f5ee848480af3c55ee98ff75586879cb5d001426d75fea0a490afec148895cd103e1cf7f4ec5             2696 main/binary-amd64/Packages.gz
