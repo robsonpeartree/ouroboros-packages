@@ -3,10 +3,10 @@ Version: 0.1.0-dev
 Architecture: all
 Maintainer: Ouroboros Linux project
 Filename: pool/main/o/ouroboros/ouroboros-archive-keyring_0.1.0-dev_all.deb
-Size: 4182
-MD5sum: 70b8238bb87a484f8226cc14c2f459b0
-SHA1: a341a0a0481c7446f1052f44766283635ccbf433
-SHA256: a432a88b4e69416a43d281b3f934e6673ad9213a9be55547ecb0e43157564285
+Size: 4180
+MD5sum: d7f91991177e774135fbdede40cbebcd
+SHA1: d79b0850ba23ef6c4e3449fbaa84ef82e81d51bc
+SHA256: 346faed4168c29299ec5604c3b60fe4671d3e540e83fd504567913b2f1778496
 Section: misc
 Priority: optional
 Description: Archive trust material for Ouroboros Linux
@@ -23,11 +23,12 @@ Version: 0.1.0-dev
 Architecture: all
 Maintainer: Ouroboros Linux project
 Depends: base-files, bash
+Replaces: base-files
 Filename: pool/main/o/ouroboros/ouroboros-base_0.1.0-dev_all.deb
-Size: 6438
-MD5sum: 9867f48c194928bf98f381d05edf232c
-SHA1: 3d01170e675987857d4a87ff4ed6bd775643a3de
-SHA256: 19f0460229ec0d4c905e410599209fcc8f85e81a6d2d22e40bc184c9b43cfbf5
+Size: 6442
+MD5sum: 0c8bb8c9f07e92688002bb2f8bbb2e71
+SHA1: b4c84809cda47508f586dd85354d009b22987cb3
+SHA256: 943c8c285d85e2149cebdd24f43b2da90c594654c9c5616c6b0562b0c6611f40
 Section: admin
 Priority: optional
 Description: Core identity and command-line defaults for Ouroboros Linux
@@ -39,11 +40,12 @@ Version: 0.1.0-dev
 Architecture: all
 Maintainer: Ouroboros Linux project
 Depends: ouroboros-base (= 0.1.0-dev), breeze, plasma-workspace, konsole, sddm, fastfetch, fonts-jetbrains-mono, plymouth, plymouth-themes
+Replaces: bash
 Filename: pool/main/o/ouroboros/ouroboros-branding_0.1.0-dev_all.deb
-Size: 9104602
-MD5sum: 616c67b5c6241ab1058f8a4f692d6cde
-SHA1: b6641ef2eb415e3121d435e61001ae0dac72a953
-SHA256: c278e5fe084aef92b73ae120d1603211f7cf1183428482095324c1ffabb4ad10
+Size: 9104604
+MD5sum: 72f56d3dd337264c18699980b47ce7ec
+SHA1: 8f004d2998a9f3d79159a4f97ed359d76322fe65
+SHA256: 6a14c79cb0f4504af2196f1ba8e2dbe7a9ac8c985b7f360e5ba2683ca8d231c5
 Section: x11
 Priority: optional
 Description: Visual identity and terminal presentation for Ouroboros Linux
@@ -58,9 +60,9 @@ Maintainer: Ouroboros Linux project
 Depends: ouroboros-base (= 0.1.0-dev), ouroboros-branding (= 0.1.0-dev), task-kde-desktop, sddm, plasma-nm, konsole, dolphin, ark, gwenview, okular, kate, pipewire-audio, pavucontrol, fastfetch, firefox-esr, plasma-discover, plasma-discover-backend-flatpak, plasma-discover-backend-fwupd, packagekit, flatpak, fwupd, libreoffice, vlc, kde-spectacle, kcalc, partitionmanager, kdeconnect, print-manager, cups, skanpage, deja-dup, kdialog, bluez, bluedevil, power-profiles-daemon, mesa-vulkan-drivers, vulkan-tools, nvidia-detect, mokutil, fprintd, libpam-fprintd, bolt, plasma-thunderbolt, thunderbolt-tools, iio-sensor-proxy, switcheroo-control, xserver-xorg-input-libinput, libcamera-tools, v4l-utils, alsa-utils, wireless-regdb, modemmanager, thermald, mbpfan, exfatprogs, ntfs-3g, btrfs-progs, plasma-workspace, kwin-wayland, maliit-keyboard, libinput-tools, kde-config-tablet, xserver-xorg-input-wacom, libwacom-bin, xinput, evemu-tools, milou, ardour, audacity, qtractor, jalv, qpwgraph, pipewire-jack, wireplumber, hydrogen, hydrogen-drumkits, guitarix, musescore3, zita-at1, rubberband-cli, lsp-plugins-lv2, calf-plugins, zam-plugins, dragonfly-reverb, invada-studio-plugins-lv2, eq10q, kdenlive, ffmpeg, elisa, mpv, wine, wine64, winetricks, steam-installer, gamemode, mangohud, goverlay, vkbasalt, joystick, jstest-gtk, qjoypad, input-remapper, steam-devices, mesa-utils, linux-cpupower, lm-sensors, smartmontools, nvme-cli, powertop, stress-ng, radeontop, intel-gpu-tools, sysstat, iotop, fio, orca, speech-dispatcher, espeak-ng, kmag, kmousetool, kontrast, onboard, brltty, khelpcenter, hunspell-en-us, aspell, fonts-noto, fonts-noto-color-emoji, unattended-upgrades, needrestart, ufw, plasma-firewall, apparmor, apparmor-utils, timeshift, testdisk, gparted, cryptsetup, git, git-lfs, build-essential, gcc, g++, make, cmake, ninja-build, pkg-config, gdb, strace, shellcheck, python3, python3-dev, python3-pip, python3-venv, python3-setuptools, python3-wheel, ca-certificates, gnupg, openssh-client, rsync, curl, wget, jq, ripgrep, fd-find, tmux, vim, nano, bash-completion, man-db, manpages-dev, zip, unzip
 Filename: pool/main/o/ouroboros/ouroboros-desktop-plasma_0.1.0-dev_all.deb
 Size: 4256
-MD5sum: f2c3c8d8a3d2cfe2f787c2bc0655f275
-SHA1: 208166595604a35ff8b9d1d83eb24b0d11ee407c
-SHA256: 3060ac96c52ac349c72a514e8e6582998b2782b5d906b8265a1795dadaede0a1
+MD5sum: bd4f4a54d75dc86a97d1e5ab4e9c4d27
+SHA1: 76e7e07adc4a8d913c7280a90a779f8f602ba758
+SHA256: dad1941ff6d685c37ee96133308bcd53c4714edf7321d0a77e5847a1fc33b3b6
 Section: metapackages
 Priority: optional
 Description: KDE Plasma desktop profile for Ouroboros Linux
@@ -72,11 +74,13 @@ Version: 0.1.0-dev
 Architecture: amd64
 Maintainer: Ouroboros Linux project
 Depends: ouroboros-base (= 0.1.0-dev), calamares, polkitd, pkexec, grub-pc-bin, grub-efi-amd64-bin, efibootmgr
+Conflicts: calamares-settings-debian
+Replaces: calamares-settings-debian
 Filename: pool/main/o/ouroboros/ouroboros-installer_0.1.0-dev_amd64.deb
-Size: 4059612
-MD5sum: 337697acbf9145363072cd43c3d39343
-SHA1: 0dbaf984bf2d5738c22ab50cf3a42d857b1e2691
-SHA256: e46b2f4d98f020147a7708ef22ded004447f9df8c90af0422b6c63f646175ee9
+Size: 4059632
+MD5sum: 5d60d7299056fec16f9561b07fcbdc15
+SHA1: 272b92e6e95ebb4c868d40e37529428677a72fa6
+SHA256: 1ebe925ba880f20b5f3b05aed7e135179b264966257a98a4e95aed48d9768e0e
 Section: admin
 Priority: optional
 Description: Calamares live installer integration for Ouroboros Linux

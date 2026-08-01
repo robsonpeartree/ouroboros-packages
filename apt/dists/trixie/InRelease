@@ -4,35 +4,35 @@ Hash: SHA512
 Architectures: amd64
 Codename: trixie
 Components: main
-Date: Sat, 01 Aug 2026 01:06:13 +0000
+Date: Sat, 01 Aug 2026 02:01:25 +0000
 Label: Ouroboros Linux
 Origin: Ouroboros Linux
 Suite: trixie
 MD5Sum:
- 84642283ced969ce035934301df9f81d             5819 main/binary-amd64/Packages
- b3d4ed1f3ed633d92b9d296fdfe5f1ef             2677 main/binary-amd64/Packages.gz
+ 941634da68c745467fe5395636750619             5928 main/binary-amd64/Packages
+ 74bf858a5bedaba10b11b85e1bed0cfe             2706 main/binary-amd64/Packages.gz
 SHA1:
- f8aa6e62035526446f6050c8f29f1efb0725de41             5819 main/binary-amd64/Packages
- cd6a57edae2c4e09fb8dc5718d63c51f70e73817             2677 main/binary-amd64/Packages.gz
+ cba8ca396234b7d1546a31e4734b84ac7471f092             5928 main/binary-amd64/Packages
+ c2221d1547c3415b866015b534d3b2efcd769653             2706 main/binary-amd64/Packages.gz
 SHA256:
- 1f3a0bd0dfffb8cb4209540701d4fce2e756e3be72dca7ba6f9f684c5b453ba5             5819 main/binary-amd64/Packages
- 354747c4ddf24496454ab51e76d459b16f77c603c896ba6781c8dc8150a3eb69             2677 main/binary-amd64/Packages.gz
+ 0b4053f966bedf4a9d7cff9550d65e6e9c4e109995a703ad12555ce87bb24515             5928 main/binary-amd64/Packages
+ eb9a1126f2225233384f52c48722da4b200d97cddf4ff987b432bbe1468b68ad             2706 main/binary-amd64/Packages.gz
 SHA512:
- 108b569507a6a05143fe7fc6d95d4c3685d6e9bd29c26a53723c396808cea40168637d1260b3933ef8ebafe3837c3ba28137518f05aff5496c5cf66d79823eef             5819 main/binary-amd64/Packages
- 01b2b4b89b857f596221545bbc8ef02345377b131e1c4790bf13c0208f5981f02ef3766a1df1e27043a0848b92cd170daad95caf67f1c92b0b3bc3ff9904ec9f             2677 main/binary-amd64/Packages.gz
+ 00b578b1a99dd3d405916969e95ab7dca9b58d6c353be4faa88ff097a46c78f8996668d58ac4ae6dde84e546cf4a09c95fba7b6eb2feeab18adc7ca27552e94b             5928 main/binary-amd64/Packages
+ b3eca61d40411c7875eb7b85caa3fbd927ffe22296bb78fc5df51b0113d3a98b48e0963656c08f6e15937e22c12300f1be8471559da558d07e8c527b2c9cf990             2706 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEE3EpC86mI8Nx5ykLV54BM8yUkMWgFAmptRoYACgkQ54BM8yUk
-MWgwxw/7BgtgJjonqAjsZmKtCU8MyYZ4xs2Et83B6lLrYS9IHrpgGmHVR0dFWN9E
-z2AZVZbP/9waxNVygyv/fRIMlxPxZyNFOQeeQ2L++O9qWKjijOKRloqwrVsxeT4Y
-8+D/xkzN4SKt2RNl0zAyUcpOEnfEHvVWontUXlpcISlJnL0fQetu3v6wZMEzKC0w
-jl1xQ3LjdE3p9ioe84XGaSzMnR4jzLgeQJzglu0ZOvnKDREQp9Nwh0cBmRkKRpiP
-5Kgj8+kvrQiwP62wFuiy6NXpBFNtT98+7cdgqWNyHM4mnLIYX/7vOU32ul3DL3nE
-zU8JaeiHhXOJiJBK5xT0YH+UihERRf713XmFLiCo9GPO1e7C3ZU+4iPuO5O+9bbs
-ewgngvuNtQ7OO7f+K/ThybwrjQDTg9Kmh/fsSpel86FJ6Rz1kGyXpMZ1dfqa80p5
-tiisR2jI1XE9YfXJQ5vqz3qyBdx1wrWJgs4miSFxoNSqW6TAjNuYpX/Jxa/OB43T
-nXwVnxZHGHc5rwDbcmqpuTO0e9gHHCsnW9Mys5EB6bVafktDdNQ8gPheYPfnU6F7
-y1izkwog/TpXNyI7XqbQoeEj6848/30TvgOXnQiSWJPtvxL9iI4hLibWiBlMG6vh
-5JUmY9BbxXBewwb9DgblYJyOwMAe7FcpOgqz1pcZvdpkBfpFIFU=
-=xtbi
+iQIzBAEBCgAdFiEE3EpC86mI8Nx5ykLV54BM8yUkMWgFAmptU3YACgkQ54BM8yUk
+MWglgw/9Ggrw4cc1nziyZ2jBsBg/3L441yo6nfDaXPJ7j+6WjN77G4gk7Iu7PdYr
+ZYd6+qrJZ34TJz9Dz0Z52s8uM2UwB98I8XGsKpFlhwJCovyh4gLLzUFVSbs7QUMV
+SrZmZ/qh5+WsmM0KnwRPzPcskmtih05cZOhexQZxAv4nz/HumuiKD0awktlKR6mx
+nBQEyd4w0OOHY5RCYjwBITtZk+7WZ0d0izcnv22PvYqSeePs1Mdo//cQ8wGKY0v7
+WnceIQYLuipvesshzZ09yPMuhdCw+RLnA6gM7ufZVnB1J1YAqpZdotCOBSukIqMJ
+nktltaZrKhUnTqEqM2qvJQ2vcV4gYvit0+mWZlKk6gLAxOb2LefuYPAyOsxbl/yB
+HCvx3LRqEZ9RJbITuriqiYXf1wUV6ahfVlHqBscVIGgLJpy28jVcHXoBOknkNNNx
+9ok+CpN/rqfSnQjvDUrKvApdN9ie51UQTeakhu3azkhSorLXWuTwkj7w4ggbO2gP
+4yHqYHu7RkwLJ9OQAPduRmeLfCwoccV1cgD/16X3BlVEBdnO7sh6G0da+9SFv+YY
+MQKV2DUnzdym/b5LL8yALbvVoxqHnwBMeJyLXeYV0Mw57N6HpC/qFW3P4nRY9JqI
+NyVfGblK+7cNB0gWGdEYIQFXoArbmzXDIyI9QjvKJ/tJwVjuhJ4=
+=l7SU
 -----END PGP SIGNATURE-----
